@@ -8,3 +8,6 @@ kolejna zmiana
 
 
 
+sumaryczne testy 1 i 2
+
+jak nie ma zmiana
